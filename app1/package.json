@@ -8,7 +8,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "express": ">5.0.2",
-        "mongodb": ">6.16.1"
+        "express": "^3.0.7",
+        "mongodb": "^2.0.0"
     }
 }
